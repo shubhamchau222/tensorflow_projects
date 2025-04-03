@@ -2,3 +2,6 @@ pandas
 seaborn
 pydot #to visualize the models
 graphviz
+onnx
+onnxruntime
+tf2onnx
